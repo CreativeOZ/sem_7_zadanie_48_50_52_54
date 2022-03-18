@@ -25,5 +25,5 @@ for (int i = 0; i < size; i++)
     {
         sum += array[i,i];
     }
-Console.Write(sum);
+Console.Write($"Сумма элементов: {sum}");
 
